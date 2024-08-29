@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppThemeN" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/chikuImageChooserPrimary</item>
+        <item name="colorPrimaryDark">@color/chikuImageChooserDark</item>
+        <item name="colorAccent">@color/chikuImageChooserAccent</item>
+    </style>
+
+</resources>

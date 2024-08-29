@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="chikuImageChooserPrimary">#0087E1</color>
+    <color name="chikuImageChooserDark">#0077C6</color>
+    <color name="chikuImageChooserAccent">#00B6FF</color>
+
+</resources>
